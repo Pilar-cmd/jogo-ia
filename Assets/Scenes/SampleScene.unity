@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 307860307}
   - component: {fileID: 307860306}
   m_Layer: 0
-  m_Name: Cylinder (2)
+  m_Name: Cylinder 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -186,7 +186,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 01c2f7aa542d3684f9c98ad6d2b90b05, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -269,8 +269,8 @@ Camera:
   m_GameObject: {fileID: 330585543}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 1, g: 0.78431374, b: 0.5176471, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -662,7 +662,7 @@ GameObject:
   - component: {fileID: 778275535}
   - component: {fileID: 778275534}
   m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Name: Cylinder 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -716,7 +716,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bd979d0428232d240822bbcd4a06655a, type: 2}
+  - {fileID: 2100000, guid: b40801e7025fcab42ac5721548f16f35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -878,7 +878,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec868d4bcec2b1b419da28efb99fc96c, type: 2}
+  - {fileID: 2100000, guid: 5ce164df34b33f4438abb4ab0332326e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -938,7 +938,7 @@ GameObject:
   - component: {fileID: 868179441}
   - component: {fileID: 868179440}
   m_Layer: 0
-  m_Name: Cylinder (6)
+  m_Name: Cylinder 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1007,7 +1007,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1e1b53525a76ee648adf601269c37d41, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1052,7 +1052,7 @@ GameObject:
   - component: {fileID: 891508315}
   - component: {fileID: 891508314}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Cylinder 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1106,7 +1106,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e89b21a25cbeade41a966ad25618ef54, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1218,7 +1218,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83e9b3f36f720a7499f2ea4ad59c1c64, type: 2}
+  - {fileID: 2100000, guid: b40801e7025fcab42ac5721548f16f35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1330,7 +1330,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 01c2f7aa542d3684f9c98ad6d2b90b05, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1390,7 +1390,7 @@ GameObject:
   - component: {fileID: 1750770136}
   - component: {fileID: 1750770135}
   m_Layer: 0
-  m_Name: Cylinder (7)
+  m_Name: Cylinder 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1459,7 +1459,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0d52e7f0024e2b745b890acc95ccef03, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1556,7 +1556,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1e1b53525a76ee648adf601269c37d41, type: 2}
+  - {fileID: 2100000, guid: b40801e7025fcab42ac5721548f16f35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1669,7 +1669,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec868d4bcec2b1b419da28efb99fc96c, type: 2}
+  - {fileID: 2100000, guid: 9a8fce914fc56304787d86a04fea5c7c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1781,7 +1781,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e89b21a25cbeade41a966ad25618ef54, type: 2}
+  - {fileID: 2100000, guid: a6f7067551eff6a4bbc48cd2be3c39ea, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1841,7 +1841,7 @@ GameObject:
   - component: {fileID: 2000051872}
   - component: {fileID: 2000051871}
   m_Layer: 0
-  m_Name: Cylinder (5)
+  m_Name: Cylinder 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1955,7 +1955,7 @@ GameObject:
   - component: {fileID: 2097613652}
   - component: {fileID: 2097613651}
   m_Layer: 0
-  m_Name: Cylinder (3)
+  m_Name: Cylinder 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2009,7 +2009,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83e9b3f36f720a7499f2ea4ad59c1c64, type: 2}
+  - {fileID: 2100000, guid: b40801e7025fcab42ac5721548f16f35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2121,7 +2121,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bd979d0428232d240822bbcd4a06655a, type: 2}
+  - {fileID: 2100000, guid: b40801e7025fcab42ac5721548f16f35, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
