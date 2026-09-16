@@ -12672,8 +12672,8 @@ MonoBehaviour:
   coyoteTime: 0.1
   maxJumps: 2
   flipRotationSpeed: 1440
-  cameraPivot: {fileID: 0}
-  cameraTransform: {fileID: 0}
+  cameraPivot: {fileID: 111726818}
+  cameraTransform: {fileID: 330585546}
   cameraDistance: 5
   cameraHeight: 2
   mouseSensitivity: 2
