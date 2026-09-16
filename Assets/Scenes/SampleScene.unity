@@ -91989,7 +91989,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c970234f068769849b3553082d36d316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
-  Target: {fileID: 0}
+  Target: {fileID: 759434915}
 --- !u!195 &830355302
 NavMeshAgent:
   m_ObjectHideFlags: 0
