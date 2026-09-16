@@ -83763,8 +83763,8 @@ MonoBehaviour:
   collisionMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  cameraCollisionRadius: 0.2
-  cameraMinDistance: 0.5
+  cameraCollisionRadius: 0.8
+  cameraMinDistance: 0.3
   groundMask:
     serializedVersion: 2
     m_Bits: 64
