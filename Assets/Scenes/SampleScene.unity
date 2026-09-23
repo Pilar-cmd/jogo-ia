@@ -94814,7 +94814,7 @@ GameObject:
   - component: {fileID: 830355303}
   - component: {fileID: 830355302}
   - component: {fileID: 830355301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Inimigo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
