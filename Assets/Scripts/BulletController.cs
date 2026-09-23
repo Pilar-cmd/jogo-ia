@@ -4,11 +4,12 @@ public class bulletController : MonoBehaviour
 {
     private Rigidbody rb;
     public float velocity;
+    public Vector3 direction;
     
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
-        rb.linearVelocity = new Vector3(0, velocity, 0);
+        rb.linearVelocity = direction*velocity;
         
     }
   
