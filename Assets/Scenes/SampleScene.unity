@@ -40022,7 +40022,7 @@ GameObject:
   - component: {fileID: 356876785}
   - component: {fileID: 356876784}
   - component: {fileID: 356876783}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115062,7 +115062,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1008272876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: escada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -164465,7 +164465,7 @@ GameObject:
   - component: {fileID: 1432955121}
   - component: {fileID: 1432955120}
   - component: {fileID: 1432955119}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
