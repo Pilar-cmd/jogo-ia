@@ -86568,7 +86568,7 @@ MonoBehaviour:
   cameraTransform: {fileID: 330585546}
   cameraDistance: 5
   cameraHeight: 2
-  mouseSensitivity: 0.5
+  mouseSensitivity: 0.3
   minVerticalAngle: -90
   maxVerticalAngle: 90
   cameraSmoothTime: 0.1
