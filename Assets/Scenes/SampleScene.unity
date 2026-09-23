@@ -84185,10 +84185,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b09737097d3b8e740a8f01e7a5e000b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  walkSpeed: 5
-  sprintSpeed: 8
-  jumpForce: 8
-  groundDrag: 5
+  walkSpeed: 10
+  sprintSpeed: 30
+  jumpForce: 15
+  groundDrag: 0
   airMultiplier: 0.4
   rotationSmoothTime: 0.1
   gravityScale: 2.5
@@ -84199,14 +84199,14 @@ MonoBehaviour:
   jumpCutMultiplier: 2
   coyoteTime: 0.1
   maxJumps: 2
-  flipRotationSpeed: 1440
+  flipRotationSpeed: 720
   cameraPivot: {fileID: 111726818}
   cameraTransform: {fileID: 330585546}
   cameraDistance: 5
   cameraHeight: 2
-  mouseSensitivity: 2
-  minVerticalAngle: -30
-  maxVerticalAngle: 60
+  mouseSensitivity: 0.1
+  minVerticalAngle: -90
+  maxVerticalAngle: 90
   cameraSmoothTime: 0.1
   collisionMask:
     serializedVersion: 2
