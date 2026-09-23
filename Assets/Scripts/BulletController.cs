@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class bulletController : MonoBehaviour
+public class BulletController : MonoBehaviour
 {
     private Rigidbody rb;
     public float velocity;
