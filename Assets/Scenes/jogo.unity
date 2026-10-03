@@ -6538,7 +6538,7 @@ GameObject:
   - component: {fileID: 65869968}
   m_Layer: 3
   m_Name: Inimigo 3
-  m_TagString: Untagged
+  m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8861,7 +8861,7 @@ GameObject:
   - component: {fileID: 83541336}
   m_Layer: 3
   m_Name: Inimigo 3 (1)
-  m_TagString: Untagged
+  m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134937,7 +134937,7 @@ GameObject:
   - component: {fileID: 1142256909}
   m_Layer: 3
   m_Name: Inimigo 3 (2)
-  m_TagString: Untagged
+  m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
