@@ -23130,7 +23130,7 @@ GameObject:
   - component: {fileID: 204670434}
   - component: {fileID: 204670433}
   m_Layer: 0
-  m_Name: ContadorMoedas
+  m_Name: GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23149,7 +23149,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   textoMoedasTMP: {fileID: 1654926789}
-  textoMoedasLegado: {fileID: 0}
   moedasNecessarias: 5
 --- !u!4 &204670434
 Transform:

@@ -1,14 +1,12 @@
 using UnityEngine;
-using TMPro; // Usar se estiveres usando TextMeshPro
-using UnityEngine.UI; // Usar se estiveres usando Text UI legado
+using TMPro;
 
 public class ContadorMoedas : MonoBehaviour
 {
     public static ContadorMoedas Instancia;
 
     [Header("Configurações")]
-    [SerializeField] private TextMeshProUGUI textoMoedasTMP; // Para TextMeshPro
-    [SerializeField] private Text textoMoedasLegado;       // Para Text normal
+    [SerializeField] private TextMeshProUGUI textoMoedasTMP;
     [SerializeField] private int moedasNecessarias = 5;
 
     private int moedasColetadas = 0;
@@ -16,9 +14,13 @@ public class ContadorMoedas : MonoBehaviour
     private void Awake()
     {
         if (Instancia == null)
+        {
             Instancia = this;
+        }
         else
+        {
             Destroy(gameObject);
+        }
     }
 
     private void Start()
@@ -33,20 +35,16 @@ public class ContadorMoedas : MonoBehaviour
 
         if (moedasColetadas >= moedasNecessarias)
         {
-            Debug.Log("Você coletou 5 moedas!");
-            // Aqui podes disparar algum evento extra se quiseres
+            Debug.Log("Parabéns! Você coletou 5 moedas!");
         }
     }
 
     private void AtualizarTextoUI()
     {
-        string mensagem = $"Moedas: {moedasColetadas} / {moedasNecessarias}";
-
         if (textoMoedasTMP != null)
-            textoMoedasTMP.text = mensagem;
-
-        if (textoMoedasLegado != null)
-            textoMoedasLegado.text = mensagem;
+        {
+            textoMoedasTMP.text = $"Moedas: {moedasColetadas} / {moedasNecessarias}";
+        }
     }
 
     public bool TemMoedasSuficientes()
